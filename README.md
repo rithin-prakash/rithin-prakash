@@ -35,7 +35,7 @@ My focus is on crafting clean, scalable, and performant mobile experiences. Whet
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rithinprakasha)
+- ✉️ [Email](mailto:rithinprakash@proton.me)
 - 📦 [GitHub](https://github.com/rithin-prakash)
 
 ---
