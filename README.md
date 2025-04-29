@@ -35,9 +35,14 @@ My focus is on crafting clean, scalable, and performant mobile experiences. Whet
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- 📦 [GitHub](https://github.com/your-github-username)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rithinprakasha)
+- 📦 [GitHub](https://github.com/rithin-prakash)
+
+---
+
+- Checkout my pinned project
 
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
