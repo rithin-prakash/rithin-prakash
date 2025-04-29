@@ -40,7 +40,7 @@ My focus is on crafting clean, scalable, and performant mobile experiences. Whet
 
 ---
 
-- Checkout my pinned project
+- Checkout my pinned projects
 
 ---
 
